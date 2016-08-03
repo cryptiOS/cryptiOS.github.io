@@ -1,0 +1,9 @@
+Origin: cryptiOS's Repo
+Label: cryptiOS's Repo
+Suite: stable
+Version: 1.0
+Codename: cryptiOS
+Architectures: iphoneos-arm
+Components: main
+Description: cryptiOS's Repo
+MD5Sum:
